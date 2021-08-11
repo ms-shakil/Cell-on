@@ -1,0 +1,51 @@
+body{
+    font-family: 'DM Sans', sans-serif;
+    margin: 0;
+}
+.mynav{
+    margin-left: auto;
+
+}
+.li1{
+    margin-right: 50px;
+}
+.li2{
+    margin-right:130px ;
+}
+.navicon{
+    margin-left: 130px;
+}
+.sec{
+    margin-top:60px ;
+    height: 470px;
+    
+}
+
+.card1{
+    box-shadow: 2px 2px 5px 5px rgb(231, 229, 229);
+  
+    padding: 20px 20px;
+}
+.span1{
+    text-align: end;
+    color: tomato;
+}
+
+
+.final_pic img{
+    width: 100%;
+}
+.img1{
+    position: relative;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.img3{
+    position: relative;
+    margin-left: 200px;
+    margin-top: -70px;
+}
+.imgs{
+    width: 130px;
+    box-shadow: 5px 5px 10px 10px  rgb(223, 216, 216);
+}
